@@ -35,7 +35,7 @@ export default function Hero() {
               Explore Collection
             </a>
             <a
-              href="https://api.whatsapp.com/send?phone=6282358388"
+              href="https://api.whatsapp.com/send?phone=6282358388&text=hi"
               target="_blank"
               rel="noopener noreferrer"
               className="inline-block px-8 py-4 bg-emerald-600 text-white font-light tracking-wider uppercase text-sm hover:bg-emerald-700 transition-all duration-300 border border-emerald-600 hover:border-emerald-700"
